@@ -5,6 +5,8 @@ Aim : Use Azure serverless functions to get public weather information from Neta
 
 Presented as part of the speed geeking session for the 2019 European Developer Summit
 
+[Linkedin](https://www.linkedin.com/in/cedricdespierrecorporon/)
+
 ![intro](images/intro.png)
 Result map :
 
